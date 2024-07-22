@@ -1,5 +1,6 @@
 import React from "react";
 import profilePic from "../assets/Fattah.jpeg";
+import { HERO_CONTENT } from "../constants";
 
 const Hero = () => {
   return (
@@ -14,8 +15,7 @@ const Hero = () => {
               Full Stack Developer
             </span>
             <p className="my-2 max-w-xl py-6 font-light tracking-tighter">
-              I am a professional full stack developer with a knack for crafting
-              robust and scalable web applications.
+             {HERO_CONTENT}
             </p>
           </div>
         </div>
