@@ -1,4 +1,4 @@
-import Prescripto from "../assets/projects/Prescripto.png"
+import Prescripto from "../assets/projects/Prescripto.png";
 import project2 from "../assets/projects/project-2.jpeg";
 import project3 from "../assets/projects/project-3.jpeg";
 import project4 from "../assets/projects/project-4.jpeg";
@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Lahore, Pakistan ",
+  phoneNo: "+92 300 4595764 ",
+  email: "fattahali37@gmail.com",
 };
