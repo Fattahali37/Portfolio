@@ -1,4 +1,4 @@
-import project1 from "../assets/projects/project-1.jpeg";
+import Prescripto from "../assets/projects/Prescripto.png"
 import project2 from "../assets/projects/project-2.jpeg";
 import project3 from "../assets/projects/project-3.jpeg";
 import project4 from "../assets/projects/project-4.jpeg";
@@ -40,11 +40,11 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
-    image: project1,
+    title: "Prescripto",
+    image: Prescripto,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A fully functional docotor appointment website with all functionalities.",
+    technologies: ["React", "Tailwind", "Node.js", "MongoDB"],
   },
   {
     title: "Task Management App",
